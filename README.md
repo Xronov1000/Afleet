@@ -42,6 +42,6 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 ## Contact
 
-For any questions or inquiries, please contact [afleet@example.com](mailto:afleet@example.com).
+For any questions or inquiries, please contact [admin@afleet.co.ke](mailto:admin@afleet.co.ke).
 
 Let's streamline school communication and tracking with Afleet! Enhance parent-teacher collaboration, stay informed about bus routes, manage assignments effectively, and foster a vibrant class community. Together, we can create a seamless and connected school experience.
